@@ -31,7 +31,7 @@ namespace Calapp {
          }
      }
      void result(){
-         Console.WriteLine("Result - {0}", calculate());
+         Console.WriteLine("Result = {0}", calculate());
      }
  }
  class Calculator {
